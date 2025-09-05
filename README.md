@@ -41,7 +41,7 @@ This project provides a **Fourier series–based linear regression model** for f
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/natural-gas-forecasting-storage-valuation.git
+git clone https://github.com/<your-username>/natgas-price-forecasting.git
 cd natural-gas-forecasting-storage-valuation
 pip install -r requirements.txt
 ```
