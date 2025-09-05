@@ -148,16 +148,3 @@ storage_costs = {
 | ...         | ...    |
 
 ---
-
-## Roadmap
-
-- [ ] Extend forecasting with ARIMA / Prophet
-- [ ] Add Monte Carlo scenario generation
-- [ ] Incorporate stochastic volatility
-- [ ] Build dashboard with Plotly/Dash
-
----
-
-## License
-
-MIT License © 2025  
